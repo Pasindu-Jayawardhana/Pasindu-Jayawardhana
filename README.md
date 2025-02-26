@@ -12,7 +12,6 @@
 - 📱 Mobile App Development (Flutter)   
 - 🚀 Passionate about Technology & Innovation  
 
-## 📫 Connect with Me  
 <p align="center">
   <a href="https://github.com/Pasindu-Jayawardhana">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
